@@ -5,12 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=Alfaturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ready%20for-Internship-blue?style=flat&logo=internship&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-orange?style=flat&logo=freelancer" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently a **7th semester student** majoring in **Software Engineering Technology (TRPL)**
-- 💼 Actively looking for an **internship opportunity** in backend or full-stack web development
+- 💼 Actively looking for an **internship opportunity** in backend or full-stack web development  
+- 🧑‍💻 Also open for **freelance projects** (website, app, or system development)
 - 🌱 Currently learning **Next.js**, **Spring Boot**, and improving system design skills
 - 🧑‍🔬 Love building apps that solve real problems with clean UI and efficient backend
 
@@ -78,7 +84,8 @@ Sistem POS untuk mendukung UMKM di Batam.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/namakamu)  
-- 📧 Email: alfaturrahman@email.com
+- 📧 Email: alfaturrahman@email.com  
+- 🧑‍💻 Available for: **Internship / Freelance projects**
 
 ---
 
