@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Halo, saya Alfaturrahman!
 
-<!--
-**Alfaturrahman/Alfaturrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya mahasiswa semester 7 dari program studi Teknologi Rekayasa Perangkat Lunak (TRPL). Saat ini saya sedang aktif mengembangkan aplikasi web menggunakan Laravel, TailwindCSS, dan Next.js.
 
-Here are some ideas to get you started:
+🎯 **Minat utama:**
+- Pengembangan Web (Full-stack)
+- UI/UX
+- Otomasi & Tools produktivitas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Tools & Stack yang saya gunakan:**
+- 🧱 Laravel, PHP
+- 🌐 HTML, CSS, JavaScript
+- 🎨 TailwindCSS, Bootstrap
+- ⚙️ Git, GitHub
+
+📌 **Proyek unggulan:**
+- 🚀 [Aplikasi Koperasi Mahasiswa](https://github.com/Alfaturrahman/koperasi) – Sistem pendaftaran anggota koperasi berbasis Laravel.
+- 📊 [POS App (Posvana)](https://github.com/Alfaturrahman/posvana) – Aplikasi POS sederhana untuk UMKM. *(WIP)*
+
+📫 **Hubungi saya di:**
+- [LinkedIn](https://linkedin.com/in/namakamu)
+- Email: alfaturrahman@email.com
+
+---
+
+> “Coding bukan hanya soal menulis syntax, tapi soal menciptakan solusi.”
