@@ -17,7 +17,7 @@
 - 🎓 I'm currently a **7th semester student** majoring in **Software Engineering Technology (TRPL)**
 - 💼 Actively looking for an **internship opportunity** in backend or full-stack web development  
 - 🧑‍💻 Also open for **freelance projects** (website, app, or system development)
-- 🌱 Currently learning **Next.js**, **Spring Boot**, and improving system design skills
+- 🌱 Currently learning **Next.js**, **Django**, and improving system design skills
 - 🧑‍🔬 Love building apps that solve real problems with clean UI and efficient backend
 
 ---
