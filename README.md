@@ -84,7 +84,7 @@ Sistem POS untuk mendukung UMKM di Batam.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/alfaturrahman)  
-- 📧 Email: alfaturrahman@email.com  
+- 📧 Email: alfatur147@gmail.com  
 - 🧑‍💻 Available for: **Internship / Freelance projects**
 - Website : https://alfaturrahman.vercel.app/
 
