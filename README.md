@@ -44,7 +44,8 @@ const alfaturrahman = {
 
 - 🎓 Software Engineering student with hands-on experience building real-world products
 - 🔥 Experienced in **Full-Stack Web**, **REST APIs**, **Mobile Apps**, and **IoT** systems
-- 🏗️ Delivered digital solutions across communities, cooperatives, events, and environmental monitoring
+- 🏗️ Delivered digital solutions across communities, cooperatives, manufacturing, and environmental monitoring
+- 🏢 Currently interning in a **manufacturing company** — backend development with **.NET Core / C#**
 - 🌱 Continuously learning and contributing to the digital ecosystem
 - 🔍 **Actively seeking Full-time / Remote roles as Backend or Full-Stack Developer**
 
@@ -68,6 +69,8 @@ const alfaturrahman = {
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
