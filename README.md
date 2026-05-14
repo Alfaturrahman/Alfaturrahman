@@ -1,29 +1,29 @@
-<!-- Header Wave -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Alfaturrahman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,0ea5e9&height=180&section=header&text=Alfaturrahman&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Digital+Solutions+%F0%9F%92%A1;Laravel+%7C+Django+%7C+Next.js+%7C+Spring+Boot;Digitalisasi+untuk+Indonesia+yang+lebih+maju+%F0%9F%87%AE%F0%9F%87%A9;Open+for+Remote+%26+Full-time+Jobs+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer;Building+Scalable+REST+APIs+%26+Web+Apps;Laravel+%7C+Django+REST+%7C+Next.js+%7C+Spring+Boot;Open+for+Remote+%26+Full-time+Opportunities" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Social & Profile Badges -->
+<!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/alfaturrahman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://alfaturrahman.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://instagram.com/alfatrr15" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Alfaturrahman&color=003366&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Alfaturrahman&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 ---
@@ -32,23 +32,21 @@
 
 ```typescript
 const alfaturrahman = {
-  role:       "Backend & Full-Stack Developer",
-  education:  "TRPL — Software Engineering Technology",
-  location:   "Batam, Indonesia 🇮🇩",
-  mission:    "💡 Digitalisasi solusi nyata untuk masyarakat",
-  focus:      ["Web Apps", "REST APIs", "Mobile Apps", "IoT Systems"],
-  stack:      ["Laravel", "Django REST", "Next.js", "Spring Boot", "Flutter"],
-  database:   ["PostgreSQL", "MySQL"],
-  status:     "✅ Open for Remote & Full-time Opportunities",
+  role:      "Backend & Full-Stack Developer",
+  education: "TRPL — Software Engineering Technology",
+  location:  "Batam, Indonesia 🇮🇩",
+  focus:     ["REST APIs", "Web Apps", "Mobile Apps", "IoT Systems"],
+  stack:     ["Laravel", "Django REST", "Next.js", "Spring Boot", "Flutter"],
+  database:  ["PostgreSQL", "MySQL"],
+  status:    "✅ Open for Remote & Full-time Opportunities",
 };
 ```
 
-- 🎓 Mahasiswa **TRPL (Teknik Rekayasa Perangkat Lunak)** yang aktif membangun project nyata
-- � Percaya bahwa **teknologi & digitalisasi** adalah kunci transformasi layanan publik dan bisnis
-- 🔥 Berpengalaman membangun **Full-Stack Web**, **REST API**, **Mobile Apps**, dan sistem **IoT**
-- 🏗️ Telah mendigitalisasi berbagai domain — komunitas perumahan, koperasi, event organizer, hingga monitoring lingkungan
-- 🌱 Terus belajar & berkontribusi untuk ekosistem digital Indonesia
-- 🔍 **Aktif mencari posisi Full-time / Remote sebagai Backend atau Full-Stack Developer**
+- 🎓 Software Engineering student with hands-on experience building real-world products
+- 🔥 Experienced in **Full-Stack Web**, **REST APIs**, **Mobile Apps**, and **IoT** systems
+- 🏗️ Delivered digital solutions across communities, cooperatives, events, and environmental monitoring
+- 🌱 Continuously learning and contributing to the digital ecosystem
+- 🔍 **Actively seeking Full-time / Remote roles as Backend or Full-Stack Developer**
 
 ---
 
@@ -94,18 +92,18 @@ const alfaturrahman = {
 
 ---
 
-## 🌐 Digitalization Mission
+## 🌐 Digitalization Impact
 
-> *"Saya percaya setiap proses manual bisa didigitalisasi — dan setiap digitalisasi harus memberikan dampak nyata bagi penggunanya."*
+> *"Every manual process can be digitized — and every digitization must create real, measurable impact for its users."*
 
-| Domain | Solusi Digital yang Dibangun |
+| Domain | Digital Solution |
 |---|---|
-| 🏘️ **Komunitas** | Smart Neighbourhood — manajemen warga, keamanan & pengumuman berbasis web + PWA |
-| 🏦 **Koperasi** | Sistem koperasi digital — simpanan, transaksi & laporan keuangan |
-| 🎪 **Event** | EO App — pendataan & manajemen acara end-to-end |
-| 🌿 **Lingkungan** | IOTROVE — monitoring mangrove berbasis IoT |
-| 🌬️ **Kesehatan** | Airqu — monitoring kualitas udara real-time di mobile |
-| 🛒 **UMKM** | Top-up & POS system untuk mendukung digitalisasi usaha kecil |
+| 🏘️ **Community** | SmartNeighbour — resident management, security scheduling & announcements (Web + PWA) |
+| 🏦 **Cooperative** | Digital cooperative system — member savings, loans & financial reports |
+| 🎪 **Events** | EO App — end-to-end event registration and attendee management |
+| 🌿 **Environment** | IOTROVE — IoT-based mangrove ecosystem monitoring |
+| 🌬️ **Health** | Airqu — real-time air quality monitoring on mobile |
+| 🛒 **SMEs** | Top-up & POS systems to support small business digitalization |
 
 ---
 
@@ -115,7 +113,7 @@ const alfaturrahman = {
   <tr>
     <td width="50%" valign="top">
       <h3>🏘️ SmartNeighbour</h3>
-      <p>Platform manajemen komunitas perumahan modern dengan fitur warga, jadwal keamanan, feedback, & pengumuman. Dilengkapi <strong>PWA</strong> & <strong>role-based access</strong>.</p>
+      <p>Modern community management platform with resident management, security scheduling, feedback, announcements, role-based access, and <strong>PWA</strong> support.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_16-000?logo=nextdotjs&style=flat-square" />
         <img src="https://img.shields.io/badge/Django_REST-092E20?logo=django&style=flat-square" />
@@ -127,9 +125,10 @@ const alfaturrahman = {
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Omahmu Web</h3>
-      <p>Aplikasi properti berbasis web menggunakan <strong>Next.js</strong> dengan tampilan modern dan performa tinggi.</p>
+      <p>Property listing web app built with <strong>Next.js</strong> — modern UI with high performance and clean architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" />
       </p>
       <a href="https://github.com/Alfaturrahman/Omahmu-web-next">🔗 Repository</a>
@@ -138,7 +137,7 @@ const alfaturrahman = {
   <tr>
     <td width="50%" valign="top">
       <h3>🎪 EO App</h3>
-      <p>Sistem manajemen <strong>Event Organizer</strong> lengkap — dari pendataan hingga laporan acara.</p>
+      <p>Full-featured <strong>Event Organizer</strong> management system — registration, attendee tracking, and detailed reporting.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square&logoColor=white" />
@@ -147,33 +146,36 @@ const alfaturrahman = {
       <a href="https://github.com/Alfaturrahman/EO-App">🔗 Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 Koperasi Merah Putih</h3>
-      <p>Aplikasi manajemen koperasi digital untuk mengelola anggota, simpanan, dan transaksi keuangan.</p>
+      <h3>🌬️ Airqu</h3>
+      <p>Cross-platform mobile app for <strong>real-time air quality monitoring</strong> with live data visualization and Firebase integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square&logoColor=black" />
       </p>
-      <a href="https://github.com/Alfaturrahman/Koperasi-Merah-Putih">🔗 Repository</a>
+      <a href="https://github.com/Alfaturrahman/Airqu">🔗 Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌬️ Airqu</h3>
-      <p>Aplikasi mobile monitoring <strong>kualitas udara</strong> real-time berbasis Flutter.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat-square&logoColor=white" />
-      </p>
-      <a href="https://github.com/Alfaturrahman/Airqu">🔗 Repository</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>📡 Load Testing (Locust)</h3>
-      <p>Proyek load testing & performance analysis API menggunakan <strong>Locust</strong> untuk simulasi ratusan user secara bersamaan.</p>
+      <p>API load testing & performance analysis simulating hundreds of concurrent users to measure system behavior under stress.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Locust-5C8E2C?logo=python&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-6366f1?logo=swagger&style=flat-square&logoColor=white" />
       </p>
       <a href="https://github.com/Alfaturrahman/Load-Testing-Locust">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 Koperasi Merah Putih</h3>
+      <p>Digital cooperative management system — member data, savings, loans, and financial transaction records.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/Alfaturrahman/Koperasi-Merah-Putih">🔗 Repository</a>
     </td>
   </tr>
 </table>
@@ -201,41 +203,41 @@ const alfaturrahman = {
 
 | Skill Area | Details |
 |---|---|
-| 🌐 **Full-Stack Web** | Membangun web app end-to-end dari UI sampai database & deployment |
-| 🔌 **REST API Design** | JWT Auth, CRUD, role-based access, Django REST & Laravel API |
-| 📱 **Mobile Dev** | Aplikasi Flutter cross-platform dengan UI yang responsif |
-| 🧪 **Load Testing** | Performance testing dengan Locust untuk simulasi beban tinggi |
-| 🚀 **Deployment** | Pengalaman deploy di Vercel & Railway |
-| 🤝 **Kolaborasi** | Terbiasa dengan Git workflow, dokumentasi teknis, dan kerja tim |
-| 💼 **Job Status** | Aktif mencari posisi **Remote / Full-time** — Backend atau Full-Stack Developer |
+| 🌐 **Full-Stack Web** | End-to-end web applications from UI to database and deployment |
+| 🔌 **REST API Design** | JWT Auth, CRUD, role-based access control — Django REST & Laravel |
+| 📱 **Mobile Dev** | Cross-platform Flutter apps with responsive and clean UI |
+| 🧪 **Load Testing** | Performance testing with Locust to simulate high-traffic scenarios |
+| 🚀 **Deployment** | Experience deploying on Vercel and Railway |
+| 🤝 **Collaboration** | Git workflow, technical documentation, and team coordination |
+| 💼 **Job Status** | Actively looking for **Remote / Full-time** Backend or Full-Stack roles |
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
 <div align="center">
 
-### 💼 Tersedia untuk Posisi Remote & Full-time
+### Open for Remote & Full-time Opportunities
 
 <a href="https://www.linkedin.com/in/alfaturrahman" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://alfaturrahman.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://instagram.com/alfatrr15" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-📍 **Batam, Indonesia** &nbsp;|&nbsp; 💬 Hubungi saya via LinkedIn untuk diskusi lebih lanjut!
+📍 **Batam, Indonesia** &nbsp;|&nbsp; 💬 Reach out via LinkedIn — I usually respond within 24 hours.
 
 <br/>
 
-> *"Kode yang baik bukan hanya yang berjalan — tapi yang mengubah cara orang bekerja."* 🚀
+> *"Good code is not just about making things work — it is about making them work better for people."*
 
 </div>
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,0ea5e9&height=120&section=footer" width="100%" />
 </div>
