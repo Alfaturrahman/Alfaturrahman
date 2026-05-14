@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer+%F0%9F%9A%80;Building+Real-World+Applications+%F0%9F%8C%90;Laravel+%7C+Django+%7C+Next.js+%7C+Flutter;Open+for+Internship+%26+Freelance+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Digital+Solutions+%F0%9F%92%A1;Laravel+%7C+Django+%7C+Next.js+%7C+Spring+Boot;Digitalisasi+untuk+Indonesia+yang+lebih+maju+%F0%9F%87%AE%F0%9F%87%A9;Open+for+Internship+%26+Freelance+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,16 +35,19 @@ const alfaturrahman = {
   role:       "Backend & Full-Stack Developer",
   education:  "TRPL — Software Engineering Technology",
   location:   "Batam, Indonesia 🇮🇩",
-  focus:      ["Web Apps", "REST APIs", "Mobile Apps"],
-  stack:      ["Laravel", "Django REST", "Next.js", "Flutter"],
+  mission:    "💡 Digitalisasi solusi nyata untuk masyarakat",
+  focus:      ["Web Apps", "REST APIs", "Mobile Apps", "IoT Systems"],
+  stack:      ["Laravel", "Django REST", "Next.js", "Spring Boot", "Flutter"],
   database:   ["PostgreSQL", "MySQL"],
   status:     "✅ Open for Internship & Freelance",
 };
 ```
 
 - 🎓 Mahasiswa **TRPL (Teknik Rekayasa Perangkat Lunak)** yang aktif membangun project nyata
-- 🔥 Berpengalaman membangun **Full-Stack Web**, **REST API**, dan **Mobile Apps**
-- 🏗️ Senang mengerjakan aplikasi yang berdampak langsung — dari sistem komunitas, koperasi, hingga IoT
+- � Percaya bahwa **teknologi & digitalisasi** adalah kunci transformasi layanan publik dan bisnis
+- 🔥 Berpengalaman membangun **Full-Stack Web**, **REST API**, **Mobile Apps**, dan sistem **IoT**
+- 🏗️ Telah mendigitalisasi berbagai domain — komunitas perumahan, koperasi, event organizer, hingga monitoring lingkungan
+- 🌱 Terus belajar & berkontribusi untuk ekosistem digital Indonesia
 - 🔍 **Sedang mencari peluang Internship / Magang & Freelance**
 
 ---
@@ -88,6 +91,21 @@ const alfaturrahman = {
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Locust-5C8E2C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+---
+
+## 🌐 Digitalization Mission
+
+> *"Saya percaya setiap proses manual bisa didigitalisasi — dan setiap digitalisasi harus memberikan dampak nyata bagi penggunanya."*
+
+| Domain | Solusi Digital yang Dibangun |
+|---|---|
+| 🏘️ **Komunitas** | Smart Neighbourhood — manajemen warga, keamanan & pengumuman berbasis web + PWA |
+| 🏦 **Koperasi** | Sistem koperasi digital — simpanan, transaksi & laporan keuangan |
+| 🎪 **Event** | EO App — pendataan & manajemen acara end-to-end |
+| 🌿 **Lingkungan** | IOTROVE — monitoring mangrove berbasis IoT |
+| 🌬️ **Kesehatan** | Airqu — monitoring kualitas udara real-time di mobile |
+| 🛒 **UMKM** | Top-up & POS system untuk mendukung digitalisasi usaha kecil |
 
 ---
 
@@ -165,12 +183,12 @@ const alfaturrahman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfaturrahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaturrahman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaturrahman&layout=donut&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Alfaturrahman&theme=tokyonight&hide_border=true" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Alfaturrahman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -205,6 +223,10 @@ const alfaturrahman = {
 </a>
 
 📍 **Batam, Indonesia** &nbsp;|&nbsp; 💬 Hubungi saya via LinkedIn untuk diskusi lebih lanjut!
+
+<br/>
+
+> *"Kode yang baik bukan hanya yang berjalan — tapi yang mengubah cara orang bekerja."* 🚀
 
 </div>
 
