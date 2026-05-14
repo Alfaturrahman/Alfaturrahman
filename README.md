@@ -1,6 +1,6 @@
 <!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:FF9500&height=200&section=header&text=Alfaturrahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Alfaturrahman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -66,6 +66,7 @@ const alfaturrahman = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -164,12 +165,12 @@ const alfaturrahman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfaturrahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaturrahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfaturrahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaturrahman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Alfaturrahman&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Alfaturrahman&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -209,5 +210,5 @@ const alfaturrahman = {
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9500,100:003366&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
 </div>
