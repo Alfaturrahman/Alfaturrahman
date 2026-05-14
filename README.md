@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Digital+Solutions+%F0%9F%92%A1;Laravel+%7C+Django+%7C+Next.js+%7C+Spring+Boot;Digitalisasi+untuk+Indonesia+yang+lebih+maju+%F0%9F%87%AE%F0%9F%87%A9;Open+for+Internship+%26+Freelance+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Digital+Solutions+%F0%9F%92%A1;Laravel+%7C+Django+%7C+Next.js+%7C+Spring+Boot;Digitalisasi+untuk+Indonesia+yang+lebih+maju+%F0%9F%87%AE%F0%9F%87%A9;Open+for+Remote+%26+Full-time+Jobs+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@ const alfaturrahman = {
   focus:      ["Web Apps", "REST APIs", "Mobile Apps", "IoT Systems"],
   stack:      ["Laravel", "Django REST", "Next.js", "Spring Boot", "Flutter"],
   database:   ["PostgreSQL", "MySQL"],
-  status:     "✅ Open for Internship & Freelance",
+  status:     "✅ Open for Remote & Full-time Opportunities",
 };
 ```
 
@@ -48,7 +48,7 @@ const alfaturrahman = {
 - 🔥 Berpengalaman membangun **Full-Stack Web**, **REST API**, **Mobile Apps**, dan sistem **IoT**
 - 🏗️ Telah mendigitalisasi berbagai domain — komunitas perumahan, koperasi, event organizer, hingga monitoring lingkungan
 - 🌱 Terus belajar & berkontribusi untuk ekosistem digital Indonesia
-- 🔍 **Sedang mencari peluang Internship / Magang & Freelance**
+- 🔍 **Aktif mencari posisi Full-time / Remote sebagai Backend atau Full-Stack Developer**
 
 ---
 
@@ -183,12 +183,16 @@ const alfaturrahman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfaturrahman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaturrahman&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alfaturrahman&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alfaturrahman&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Alfaturrahman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfaturrahman&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Alfaturrahman&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -203,6 +207,7 @@ const alfaturrahman = {
 | 🧪 **Load Testing** | Performance testing dengan Locust untuk simulasi beban tinggi |
 | 🚀 **Deployment** | Pengalaman deploy di Vercel & Railway |
 | 🤝 **Kolaborasi** | Terbiasa dengan Git workflow, dokumentasi teknis, dan kerja tim |
+| 💼 **Job Status** | Aktif mencari posisi **Remote / Full-time** — Backend atau Full-Stack Developer |
 
 ---
 
@@ -210,7 +215,7 @@ const alfaturrahman = {
 
 <div align="center">
 
-### 💼 Tersedia untuk Internship & Freelance
+### 💼 Tersedia untuk Posisi Remote & Full-time
 
 <a href="https://www.linkedin.com/in/alfaturrahman" target="_blank">
   <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
